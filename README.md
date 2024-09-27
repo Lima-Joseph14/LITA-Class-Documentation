@@ -17,20 +17,21 @@ The primary sources of data will be added shortly.
 - GitHub for Portfolio Building
 
 
-## Data Cleaning and Preparation ##
+#### Data Cleaning and Preparation ####
 1. Data cleaning and Inspection
 2. Handling missing variables
 3. Data cleaning and formatting
 
-## Exploratory Data Analysis ##
+#### Exploratory Data Analysis ####
 - What is the overall data for women and men?
 - How many industries have employees with disabilities?
 
-## Data Analysis ##
+#### Data Analysis ####
 This is where we include some basic code or queries used during analysis:
 
----SQL
+```SQL
 SELECT*FROM TABLE 1
-WHERE CONNECTION = TRUE
----
+WHERE CONDITION = TRUE
+```
    
+#### Data Visualization ####
